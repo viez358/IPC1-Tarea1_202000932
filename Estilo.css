@@ -1,0 +1,37 @@
+body{
+	background: #3ea790;
+	border: 1px;
+	color: white;
+	width: 1000px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+main{
+	font-size: 12px;
+	font-weight: normal;		/*Énfasis del Texto*/
+}
+
+
+.Subtitulo{
+	font-size: 14;
+	font-weight: normal;
+}
+
+.Titulo{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+table{
+	width: 900px;
+	margin: 0px auto;
+	border: 1px solid white;
+}
+
+th, td{
+	width: 25%;
+	text-align: center;
+	vertical-align: top;
+	border: 1px solid white;
+}
